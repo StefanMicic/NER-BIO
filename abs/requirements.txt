@@ -1,8 +1,0 @@
-numpy~=1.21.5
-loguru~=0.5.3
-scikit-learn~=0.24.2
-tensorflow~=2.7.0
-keras~=2.7.0
-gensim~=4.1.2
-tqdm~=4.62.2
-nltk~=3.6.5
