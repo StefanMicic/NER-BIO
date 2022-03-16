@@ -1,0 +1,16 @@
+{
+  "data_preprocessing": {
+    "apply": "yes",
+    "input_data_path": "data",
+    "prepared_data_path": "prepared_data",
+    "num_of_samples": 100
+  },
+  "training": {
+    "apply": "yes",
+    "vocab_size": 20000,
+    "num_of_labels": 63,
+    "epochs": 2,
+    "batch_size": 64,
+    "embed_dim": 100
+  }
+}
